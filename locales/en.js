@@ -19,5 +19,7 @@ export default {
     broadcastDate: 'Broadcast date',
     currentValueOfauction: 'The current value of the auction',
     presentValueAfterTax: 'Present value after tax',
+    contenders: 'Contenders',
+    bidderName: 'Bidder name',
   },
 }

@@ -19,5 +19,7 @@ export default {
     broadcastDate: 'تاريخ البث',
     currentValueOfauction: 'القيمة الحالية للمزاد',
     presentValueAfterTax: 'القيمة الحالية بعد الضريبة',
+    contenders: 'المتنافسون',
+    bidderName: 'اسم المزايد',
   },
 }

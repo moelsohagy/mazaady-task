@@ -5,8 +5,9 @@
         <SellerCard />
         <SendToSeller />
       </div>
-      <div class="sidebar w-full lg:w-1/3 bg-gray-300">
+      <div class="sidebar w-full lg:w-1/3">
         <Statistics />
+        <Contenders />
       </div>
     </div>
   </div>
@@ -16,4 +17,5 @@
 import SellerCard from '@/components/SellerCard.vue'
 import SendToSeller from '@/components/SendToSeller.vue'
 import Statistics from '@/components/Statistics.vue'
+import Contenders from '@/components/Contenders.vue'
 </script>
