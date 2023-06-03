@@ -29,7 +29,7 @@
     <div class="p-4">
       <div class="flex gap-4 mb-3">
         <div class="image relative w-14 h-14">
-          <img class="w-full" src="@/assets/images/profile.png" alt="" />
+          <img class="w-full" src="@/assets/images/profile-1.png" alt="" />
           <span class="absolute bottom-7 end-7 translate-x-full translate-y-full bg-white w-8 h-8 rounded-full">
             <img class="top-1/2 start-1/2 translate-x-full translate-y-full" src="@/assets/icons/love-2.svg" alt="" />
           </span>

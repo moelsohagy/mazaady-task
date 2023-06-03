@@ -15,4 +15,9 @@ export default {
     sendMsgToSellerDescription: 'يمكنك في وقت البث المباشر ارسال رسالة الى البائع للاستفسار',
     writeYourQuestion: 'اكتب سؤالك',
   },
+  sidebar: {
+    broadcastDate: 'تاريخ البث',
+    currentValueOfauction: 'القيمة الحالية للمزاد',
+    presentValueAfterTax: 'القيمة الحالية بعد الضريبة',
+  },
 }

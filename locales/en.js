@@ -15,4 +15,9 @@ export default {
     sendMsgToSellerDescription: 'At the time of the live broadcast, you can send a message to the sellers to inquire',
     writeYourQuestion: 'Write your question',
   },
+  sidebar: {
+    broadcastDate: 'Broadcast date',
+    currentValueOfauction: 'The current value of the auction',
+    presentValueAfterTax: 'Present value after tax',
+  },
 }
