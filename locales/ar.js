@@ -11,5 +11,8 @@ export default {
     code: 'كود 1234',
     writeAmount: 'اكتب المبلغ',
     confirm: 'تأكيد',
+    sendMsgToSeller: 'ارسال رسالة الى البائع',
+    sendMsgToSellerDescription: 'يمكنك في وقت البث المباشر ارسال رسالة الى البائع للاستفسار',
+    writeYourQuestion: 'اكتب سؤالك',
   },
 }

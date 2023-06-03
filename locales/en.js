@@ -11,5 +11,8 @@ export default {
     code: 'code 1234',
     writeAmount: 'Write amount',
     confirm: 'Confirm',
+    sendMsgToSeller: 'Send msg to seller',
+    sendMsgToSellerDescription: 'At the time of the live broadcast, you can send a message to the sellers to inquire',
+    writeYourQuestion: 'Write your question',
   },
 }
