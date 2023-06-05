@@ -4,6 +4,8 @@ export default {
     english: 'الأنجليزية',
     arabic: 'العربية',
     login: 'تسجيل الدخول',
+    home: 'الرئيسية',
+    categories: 'التصنيفات',
   },
   seller: {
     name: 'اسم البائع',

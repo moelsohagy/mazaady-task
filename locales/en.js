@@ -4,6 +4,8 @@ export default {
     english: 'English',
     arabic: 'Arabic',
     login: 'Login',
+    home: 'Home',
+    categories: 'Categories',
   },
   seller: {
     name: 'Seller name',
