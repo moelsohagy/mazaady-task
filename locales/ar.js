@@ -5,7 +5,14 @@ export default {
     arabic: 'العربية',
     login: 'تسجيل الدخول',
     home: 'الرئيسية',
+    selectItem: 'اختر عنصر',
+    processType: 'نوع العملية',
+    other: 'اخر',
+  },
+  categories: {
     categories: 'التصنيفات',
+    mainCategory: 'التصنيف الاساسي',
+    subCategory: 'التصنيف الفرعي',
   },
   seller: {
     name: 'اسم البائع',

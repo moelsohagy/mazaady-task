@@ -32,7 +32,7 @@
           {{ $t('main.home') }}
         </NuxtLink>
         <NuxtLink :to="localePath('/categories')">
-          {{ $t('main.categories') }}
+          {{ $t('categories.categories') }}
         </NuxtLink>
         <div class="flex">
           <button
@@ -90,7 +90,7 @@
                 {{ $t('main.home') }}
               </NuxtLink>
               <NuxtLink class="block w-full mb-4" :to="localePath('/categories')">
-                {{ $t('main.categories') }}
+                {{ $t('categories.categories') }}
               </NuxtLink>
               <div class="flex w-full mb-4">
                 <button

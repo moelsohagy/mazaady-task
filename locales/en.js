@@ -5,7 +5,14 @@ export default {
     arabic: 'Arabic',
     login: 'Login',
     home: 'Home',
+    selectItem: 'Select item',
+    processType: 'Process type',
+    other: 'Other',
+  },
+  categories: {
     categories: 'Categories',
+    mainCategory: 'Main Category',
+    subCategory: 'Sub Category',
   },
   seller: {
     name: 'Seller name',
